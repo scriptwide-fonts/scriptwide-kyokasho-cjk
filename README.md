@@ -6,7 +6,7 @@ This font is licensed under OFL.
 
 ## Description
 
-Slightly higher effort amalgamation of several Klee One-derived fonts with some minute edits.
+Low effort amalgamation of several Klee One-derived fonts with some minute edits.
 
 Glyphs do not necessarily follow any source, but most of them should follow the J-source or G-source.
 
