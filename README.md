@@ -72,8 +72,8 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC) | Provided classical glyphs | LXGW |
 | [YshiPen-Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti) | Provided classical glyphs | Steve-Yuu |
 | [Moon Stars Kai](https://github.com/GuiWonder/MoonStarsKai) | Provided classical glyphs | GuiWonder |
-| [WenKai_MSARG](https://github.com/buwuzhengyedexiaoji/WenKai_MSARG) | Provided some glyphs | buwuzhengyedexiaoji |
 | [Iansui](https://github.com/ButTaiwan/iansui) | Provided some glyphs | But Ko |
 | [JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai) | Provided some glyphs | ItMarki |
 | [PlanKai](https://github.com/Des-Magmeta/PlanKai) | Provided some glyphs | Des-Magmeta |
+| [WenKai_MSARG](https://github.com/buwuzhengyedexiaoji/WenKai_MSARG) | Provided some glyphs | buwuzhengyedexiaoji |
 | [LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) | Provided some glyphs | LXGW |
