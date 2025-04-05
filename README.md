@@ -80,4 +80,5 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai) | Provided some glyphs | ItMarki |
 | [PlanKai](https://github.com/Des-Magmeta/PlanKai) | Provided some glyphs | Des-Magmeta |
 | [WenKai_MSARG](https://github.com/buwuzhengyedexiaoji/WenKai_MSARG) | Provided some glyphs | buwuzhengyedexiaoji |
+| [Astalia](https://github.com/Ayaginu-Sue/Astalia) | Provided some glyphs | Ayaginu-Sue |
 | [LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) | Provided some glyphs | LXGW |
