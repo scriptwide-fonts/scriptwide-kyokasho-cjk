@@ -14,7 +14,11 @@ Scriptwide Kyokasho CJK consists of 2 fonts to support as many CJK ideographs as
 
 ## Coverage
 
-wip
+![A](KyokashoA.png)
+
+![B](KyokashoB.png)
+
+These are screenshots from <https://github.com/NightFurySL2001/CJK-character-count>.
 
 ## Who asked?
 
