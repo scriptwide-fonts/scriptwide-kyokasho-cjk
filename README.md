@@ -1,7 +1,7 @@
 # Scriptwide Kyokasho CJK
 
 > [!WARNING]  
-> I added way too many glyphs to the font, but before I could save it, FontForge corrupted all of my saves, turning everything into zero bytes. No backups were made, so unfortunately v1.001 *is* the latest version.
+> I added way too many glyphs to the font, but before I could save it, FontForge corrupted all of my saves, turning everything into zero bytes. No backups were made, so unfortunately many characters created over the span of a month are currently lost. I am currently remaking the latest version of the font, though diminished, by re-merging updated versions of derivative fonts.
 
 Pan-CJK font based on Klee One and its derivatives
 
