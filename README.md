@@ -26,7 +26,7 @@ These are screenshots from <https://github.com/NightFurySL2001/CJK-character-cou
 ## Who asked?
 
 1. Why does Scriptwide Kyokasho CJK consist of 2 fonts?
-  * One font file can only support 65535 glyphs, therefore the font has to be split.
+  * One font file can only support 65535 glyphs, therefore the font has to be split to accommodate future additions.
 2. Why not 3 fonts?
   * Bad question.
 3. Is this README file copied from Scriptwide Sans CJK?
@@ -35,6 +35,8 @@ These are screenshots from <https://github.com/NightFurySL2001/CJK-character-cou
   * Yes, unless you violate the OFL. You probably won't if you're being reasonable.
 5. Aren't there less characters compared to LXGW WenKai?
   * Those are AI placeholder characters produced through zi2zi. To maximise quality and to avoid confusion I have removed them. Newer glyphs may still be traced from these AI characters.
+6. Isn't this a Kai font?
+  * This is to differentiate the font from proper Kai fonts like TW-Kai. Contrary to popular belief, Klee One is more similar to kyokasho-tai compared to Kai script. However, kyokasho-tai itself is based on Kai script.
 
 ## Disclaimer
 
