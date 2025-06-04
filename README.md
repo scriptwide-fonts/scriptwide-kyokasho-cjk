@@ -21,6 +21,29 @@ Glyphs do not necessarily follow any source, but most of them should follow the 
 
 These are screenshots from <https://github.com/NightFurySL2001/CJK-character-count>.
 
+## Bragging
+
+Note that most glyphs are NOT made by me. Only additions and planned ranges are shown.
+
+- [ ] IICORE
+- [ ] CJK URO
+- [ ] CJK Ext-A
+- [ ] G3 / GB/T 13131
+- [ ] G5 / GB/T 13132 (BMP)
+- [ ] G5 / GB/T 13132 (non-BMP)
+- [ ] GK / GB/T 12052-1989
+- [ ] G古籍 / GB/Z 40637-2021
+- [ ] Erjian
+- [x] HKSCS (BMP)
+- [ ] HKSCS (non-BMP)
+- [x] MSCS (BMP)
+- [ ] MSCS (non-BMP)
+- [ ] T3 (BMP)
+- [ ] T3 (non-BMP)
+- [x] J1 / JIS X 0212
+- [x] K0 / KS X 1001
+- [ ] VN (Ext-A)
+
 ## Who asked?
 
 1. Why does Scriptwide Kyokasho CJK consist of 2 fonts?
