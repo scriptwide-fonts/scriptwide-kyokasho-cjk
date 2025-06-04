@@ -1,7 +1,7 @@
 # Scriptwide Kyokasho CJK
 
 > [!WARNING]  
-> I added way too many glyphs to the font, but before I could save it, FontForge corrupted all of my saves, turning everything into zero bytes. No backups were made, so unfortunately many characters created over the span of a month are currently lost.
+> I added many glyphs to the font, but before I could save it, FontForge corrupted all of my saves. No backups were made, so unfortunately many characters created over the span of a month are currently lost. Some of these glyphs are already remade.
 
 CJK font based on Klee One Semibold and its derivatives
 
@@ -12,8 +12,6 @@ This font is licensed under OFL.
 Low effort amalgamation of several Klee One-derived fonts with some minute edits.
 
 Glyphs do not necessarily follow any source, but most of them should follow the J-source or G-source.
-
-Scriptwide Kyokasho CJK consists of 2 fonts to support as many CJK ideographs as possible.
 
 ## Coverage
 
@@ -79,6 +77,7 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [Klee One](https://fonts.google.com/specimen/Klee+One) | Base font of base font | Fontworks |
 | [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | Base font | LXGW |
 | [LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC) | Provided classical glyphs | LXGW |
+| [LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) | Provided some glyphs | LXGW |
 | [YshiPen-Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti) | Provided classical glyphs | Steve-Yuu |
 | [Moon Stars Kai](https://github.com/GuiWonder/MoonStarsKai) | Provided classical glyphs | GuiWonder |
 | [Iansui](https://github.com/ButTaiwan/iansui) | Provided some glyphs | But Ko |
@@ -86,4 +85,3 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [PlanKai](https://github.com/Des-Magmeta/PlanKai) | Provided some glyphs | Des-Magmeta |
 | [WenKai_MSARG](https://github.com/buwuzhengyedexiaoji/WenKai_MSARG) | Provided some glyphs | buwuzhengyedexiaoji |
 | [Astalia](https://github.com/Ayaginu-Sue/Astalia) | Provided some glyphs | Ayaginu-Sue |
-| [LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) | Provided some glyphs | LXGW |
