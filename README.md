@@ -25,6 +25,8 @@ These are screenshots from <https://github.com/NightFurySL2001/CJK-character-cou
 
 Note that most glyphs are NOT made by me. Only additions and planned ranges are shown.
 
+*: next update
+
 - [ ] IICORE
 - [ ] CJK URO
 - [ ] CJK Ext-A
@@ -33,7 +35,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [ ] G5 / GB/T 13132 (non-BMP)
 - [ ] GK / GB/T 12052-1989
 - [ ] G古籍 / GB/Z 40637-2021
-- [ ] Erjian
+- [ ] Erjian*
 - [x] HKSCS (BMP)
 - [ ] HKSCS (non-BMP)
 - [x] MSCS (BMP)
