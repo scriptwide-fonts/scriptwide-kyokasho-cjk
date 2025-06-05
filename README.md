@@ -33,7 +33,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [ ] G3 / GB/T 13131
 - [ ] G5 / GB/T 13132 (BMP)
 - [ ] G5 / GB/T 13132 (non-BMP)
-- [ ] GK / GB/T 12052-1989
+- [ ] GK / GB/T 12052-1989*
 - [ ] G古籍 / GB/Z 40637-2021
 - [ ] Erjian*
 - [x] HKSCS (BMP)
