@@ -44,6 +44,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [ ] T3 (non-BMP)
 - [x] J1 / JIS X 0212
 - [x] K0 / KS X 1001
+- [ ] K1 / KS X 1002*
 - [ ] VN (Ext-A)
 
 ## Who asked?
