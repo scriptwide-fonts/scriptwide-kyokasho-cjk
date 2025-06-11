@@ -1,8 +1,5 @@
 # Scriptwide Kyokasho CJK
 
-> [!WARNING]  
-> I added many glyphs to the font, but before I could save it, FontForge corrupted all of my saves. No backups were made, so unfortunately many characters created over the span of a month are currently lost. Some of these glyphs are already remade.
-
 CJK font based on Klee One Semibold and its derivatives
 
 This font is licensed under OFL.
