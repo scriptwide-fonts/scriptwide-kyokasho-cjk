@@ -1,7 +1,7 @@
 # Scriptwide Kyokasho CJK
 
 > [!WARNING]  
-> I added way too many glyphs to the font, but before I could save it, FontForge corrupted all of my saves, turning everything into zero bytes. No backups were made, so unfortunately many characters created over the span of a month are currently lost.
+> I added many glyphs to the font, but before I could save it, FontForge corrupted all of my saves. No backups were made, so unfortunately many characters created over the span of a month are currently lost. Some of these glyphs are already remade.
 
 CJK font based on Klee One Semibold and its derivatives
 
@@ -13,8 +13,6 @@ Low effort amalgamation of several Klee One-derived fonts with some minute edits
 
 Glyphs do not necessarily follow any source, but most of them should follow the J-source or G-source.
 
-Scriptwide Kyokasho CJK consists of 2 fonts to support as many CJK ideographs as possible.
-
 ## Coverage
 
 ![A](KyokashoA.png)
@@ -22,6 +20,36 @@ Scriptwide Kyokasho CJK consists of 2 fonts to support as many CJK ideographs as
 ![B](KyokashoB.png)
 
 These are screenshots from <https://github.com/NightFurySL2001/CJK-character-count>.
+
+## Bragging
+
+Note that most glyphs are NOT made by me. Only additions and planned ranges are shown.
+
+*: next update
+
+- [ ] IICORE
+- [ ] CJK URO
+- [ ] CJK Ext-A
+- [ ] G3 / GB/T 13131
+- [ ] G5 / GB/T 13132 (BMP)
+- [ ] G5 / GB/T 13132 (non-BMP)
+- [x] GK / GB/T 12052-1989
+- [ ] G古籍 / GB/Z 40637-2021
+- [x] Erjian / 第二次汉字简化方案 (1977)
+- [x] First-Round Simplification (1935) / 第一批簡體字表 (1935)
+- [x] HKSCS (BMP)
+- [ ] HKSCS (non-BMP)
+- [x] MSCS (BMP)
+- [ ] MSCS (non-BMP)
+- [ ] T3 (BMP)
+- [ ] T3 (non-BMP)
+- [x] J1 / JIS X 0212
+- [x] K0 / KS X 1001
+- [x] K1 / KS X 1002
+- [x] K2 / KS X 1027-1
+- [ ] KP1 / KPS 10721 (BMP)
+- [ ] KP1 / KPS 10721 (non-BMP)
+- [ ] VN (Ext-A)
 
 ## Who asked?
 
@@ -79,6 +107,7 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [Klee One](https://fonts.google.com/specimen/Klee+One) | Base font of base font | Fontworks |
 | [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | Base font | LXGW |
 | [LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC) | Provided classical glyphs | LXGW |
+| [LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) | Provided some glyphs | LXGW |
 | [YshiPen-Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti) | Provided classical glyphs | Steve-Yuu |
 | [Moon Stars Kai](https://github.com/GuiWonder/MoonStarsKai) | Provided classical glyphs | GuiWonder |
 | [Iansui](https://github.com/ButTaiwan/iansui) | Provided some glyphs | But Ko |
@@ -86,4 +115,3 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [PlanKai](https://github.com/Des-Magmeta/PlanKai) | Provided some glyphs | Des-Magmeta |
 | [WenKai_MSARG](https://github.com/buwuzhengyedexiaoji/WenKai_MSARG) | Provided some glyphs | buwuzhengyedexiaoji |
 | [Astalia](https://github.com/Ayaginu-Sue/Astalia) | Provided some glyphs | Ayaginu-Sue |
-| [LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) | Provided some glyphs | LXGW |
