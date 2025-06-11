@@ -30,6 +30,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [ ] G5 / GB/T 13132 (BMP)
 - [ ] G5 / GB/T 13132 (non-BMP)
 - [x] GK / GB/T 12052-1989
+- [ ] GS
 - [ ] G古籍 / GB/Z 40637-2021
 - [x] Erjian / 第二次汉字简化方案 (1977)
 - [x] First-Round Simplification (1935) / 第一批簡體字表 (1935)
@@ -43,6 +44,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [x] K0 / KS X 1001
 - [x] K1 / KS X 1002
 - [x] K2 / KS X 1027-1
+- [ ] K3 / KS X 1027-2
 - [ ] KP1 / KPS 10721 (BMP)
 - [ ] KP1 / KPS 10721 (non-BMP)
 - [ ] VN (Ext-A)
