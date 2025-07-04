@@ -90,10 +90,8 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 
 * Sell any part of the font files on their own.
   * There are many online merchants (typically on Taobao) illegally reselling OFL fonts. No matter the original creator of the fonts, please refrain from purchasing from these resellers, as sellings fonts directly is a serious violation of the OFL.
-* Republish these fonts under a non-OFL license.
+* Republish these fonts under a license that is not compatible with the OFL.
   * 鼎〇 (〇猎), I'm talking about you...
-* Use these fonts for illegal purposes or those that harm the normal operation of computer systems.
-  * I mean, you have common sense... right? 
 
 ## Credits
 
