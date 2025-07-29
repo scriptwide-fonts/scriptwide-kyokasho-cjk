@@ -33,7 +33,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [ ] GS
 - [x] HKSCS (BMP)
 - [ ] HKSCS (non-BMP)
-- [x] MSCS (BMP)
+- [ ] MSCS (BMP)*
 - [ ] MSCS (non-BMP)
 - [ ] T3 (BMP)
 - [ ] T3 (non-BMP)
