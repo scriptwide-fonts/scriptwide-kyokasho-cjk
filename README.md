@@ -57,9 +57,11 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 4. Can I expand on this font?
   * Yes, unless you violate the OFL. You probably won't if you're being reasonable.
 5. Aren't there less characters compared to LXGW WenKai?
-  * Those are AI placeholder characters produced through zi2zi. To maximise quality and to avoid confusion I have removed them. Newer glyphs may still be traced from these AI characters.
+  * Those are AI placeholder characters produced through zi2zi. To increase quality and to avoid confusion I have removed them. Newer glyphs may still be traced from these AI characters.
 6. Why isn't this classified as a Kai font?
   * This is to differentiate the font from proper Kai fonts like TW-Kai. Contrary to popular belief, Klee One is more similar to kyokasho-tai compared to Kai script. However, kyokasho-tai itself is based on Kai script.
+7. Your font sucks.
+  * I know.
 
 ## Disclaimer
 
