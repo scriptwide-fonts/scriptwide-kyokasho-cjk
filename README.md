@@ -24,7 +24,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 
 *: next update
 
-- [ ] CJK URO
+- [ ] CJK URO*
 - [ ] CJK Ext-A
 - [ ] G3 / GB/T 13131
 - [ ] G5 / GB/T 13132 (BMP)
