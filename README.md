@@ -35,7 +35,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [ ] HKSCS (non-BMP)
 - [x] MSCS (BMP)
 - [ ] MSCS (non-BMP)
-- [ ] Other M-source
+- [ ] M-source horizontal extensions (MD)
 - [ ] T3 (BMP)
 - [ ] T3 (non-BMP)
 - [x] J1 / JIS X 0212
