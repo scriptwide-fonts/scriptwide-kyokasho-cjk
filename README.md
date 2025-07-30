@@ -104,6 +104,7 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | Base font | LXGW |
 | [LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC) | Provided classical glyphs | LXGW |
 | [LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) | Provided some glyphs | LXGW |
+| [Pengli](https://github.com/lxgw/Pengli) | Provided glyphs from GB/Z 40637-2021 | LXGW |
 | [YshiPen-Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti) | Provided classical glyphs | Steve-Yuu |
 | [Moon Stars Kai](https://github.com/GuiWonder/MoonStarsKai) | Provided classical glyphs | GuiWonder |
 | [Iansui](https://github.com/ButTaiwan/iansui) | Provided some glyphs | But Ko |
