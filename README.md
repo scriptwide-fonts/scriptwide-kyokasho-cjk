@@ -45,7 +45,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [ ] K3 / KS X 1027-2
 - [ ] KP1 / KPS 10721 (BMP)
 - [ ] KP1 / KPS 10721 (non-BMP)
-- [ ] VN (Ext-A)
+- [ ] VN (Ext-A)*
 
 ## Who asked?
 
