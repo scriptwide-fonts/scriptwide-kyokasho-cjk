@@ -24,7 +24,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 
 *: next update
 
-- [ ] CJK URO*
+- [x] CJK URO
 - [ ] CJK Ext-A
 - [ ] G3 / GB/T 13131
 - [ ] G5 / GB/T 13132 (BMP)
@@ -34,8 +34,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [x] HKSCS (BMP)
 - [ ] HKSCS (non-BMP)
 - [x] MSCS (BMP)
-- [ ] MSCS (non-BMP)
-- [ ] M-source horizontal extensions (MD)
+- [ ] MSCS (non-BMP) and M-source horizontal extensions (MD)
 - [ ] T3 (BMP)
 - [ ] T3 (non-BMP)
 - [x] J1 / JIS X 0212
@@ -45,7 +44,7 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [ ] K3 / KS X 1027-2
 - [ ] KP1 / KPS 10721 (BMP)
 - [ ] KP1 / KPS 10721 (non-BMP)
-- [ ] VN (Ext-A)*
+- [x] VN (Ext-A)
 
 ## Who asked?
 
@@ -53,15 +52,17 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
   * One font file can only support 65535 glyphs, therefore the font has to be split to accommodate future additions.
 2. Why not 3 fonts?
   * Bad question.
-3. Is this README file copied from Scriptwide Sans CJK?
+3. What are the `Misc` fonts for?
+  * These are versions of Scriptwide Kyokasho that do not consist of CJK characters. A monospace version is also provided. Due to its smaller file size, WOFF and WOFF2 files are provided for the `Misc` fonts.
+4. Is this README file copied from Scriptwide Sans CJK?
   * Yes.
-4. Can I expand on this font?
+5. Can I expand on this font?
   * Yes, unless you violate the OFL. You probably won't if you're being reasonable.
-5. Aren't there less characters compared to LXGW WenKai?
+6. Aren't there less characters compared to LXGW WenKai?
   * Those are AI placeholder characters produced through zi2zi. To increase quality and to avoid confusion I have removed them. Newer glyphs may still be traced from these AI characters.
-6. Why isn't this classified as a Kai font?
+7. Why isn't this classified as a Kai font?
   * This is to differentiate the font from proper Kai fonts like TW-Kai. Contrary to popular belief, Klee One is more similar to kyokasho-tai compared to Kai script. However, kyokasho-tai itself is based on Kai script.
-7. Your font sucks.
+8. Your font sucks.
   * I know.
 
 ## Disclaimer
