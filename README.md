@@ -112,6 +112,7 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) | Provided some glyphs | LXGW |
 | [Pengli](https://github.com/lxgw/Pengli) | Provided glyphs from GB/Z 40637-2021 | LXGW |
 | [ChienChia](https://github.com/Tsao-Tung/Chienchia) | Provided modifications of Pengli glyphs | Tsao Tung |
+| [Chisuga-Shotai](https://github.com/ChisugaMaeka/Chisuga-Shotai) | Provided some glyphs | ChisugaMaeka |
 | [YshiPen-Shuti](https://github.com/Steve-Yuu/YshiPen-Shuti) | Provided classical glyphs | Steve Yuu |
 | [Moon Stars Kai](https://github.com/GuiWonder/MoonStarsKai) | Provided classical glyphs | GuiWonder |
 | [Iansui](https://github.com/ButTaiwan/iansui) | Provided some glyphs | But Ko |
