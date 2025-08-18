@@ -4,6 +4,10 @@ CJK font based on Klee One Semibold and its derivatives
 
 This font is licensed under OFL.
 
+> [!IMPORTANT]
+> This font is named uncreatively and may be too long. However, just "Kyokasho" (教科書(体)) is too generic of a name. This is like crediting a songti font as just "Song". Just call it "Scriptwide Kyokasho CJK" or just "Scriptwide Kyokasho". Alternatively, credit me by "FishlandicFishy's kyokasho font".
+> 此字體名稱略顯冗長且缺乏創意，但若僅稱作「教科書體」（Kyokasho）又過於籠統，像是將某款宋體直接命名爲「宋」。建議採用 「Scriptwide Kyokasho CJK」 或簡稱 「Scriptwide Kyokasho」；若需標注作者，亦可使用 「FishlandicFishy的教科書體」。
+
 ## Description
 
 Low effort amalgamation of several Klee One-derived fonts with some minute edits.
