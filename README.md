@@ -109,6 +109,7 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [Klee One](https://fonts.google.com/specimen/Klee+One) | Base font of base font | Fontworks |
 | [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | Base font | LXGW |
 | [LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC) | Provided classical glyphs | LXGW |
+| [LXGW WenKai KR](https://github.com/lxgw/LxgwWenkaiKR) | Provided some glyphs | LXGW |
 | [LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB) | Provided some glyphs | LXGW |
 | [Pengli](https://github.com/lxgw/Pengli) | Provided glyphs from GB/Z 40637-2021 | LXGW |
 | [ChienChia](https://github.com/Tsao-Tung/Chienchia) | Provided modifications of Pengli glyphs | Tsao Tung |
