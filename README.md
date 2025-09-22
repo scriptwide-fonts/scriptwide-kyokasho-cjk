@@ -121,5 +121,6 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [PlanKai](https://github.com/Des-Magmeta/PlanKai) | Provided some glyphs | Des-Magmeta |
 | [WenKai_MSARG](https://github.com/buwuzhengyedexiaoji/WenKai_MSARG) | Provided some glyphs | buwuzhengyedexiaoji |
 | [Astalia](https://github.com/Ayaginu-Sue/Astalia) | Provided some glyphs | Ayaginu-Sue |
+| [Ysabeau](https://github.com/CatharsisFonts/Ysabeau) | Provided some glyphs (sans-serif circled numbers) | Catharsis Fonts |
 
 [^1]: 此句經過DeepSeek翻譯潤飾，惟本人中文言辭不佳，如有不當，還望海涵。
