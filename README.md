@@ -29,8 +29,9 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 - [ ] G3 / GB/T 13131
 - [ ] G5 / GB/T 13132 (BMP)
 - [ ] G5 / GB/T 13132 (non-BMP)
+- [x] G7 / Data Statistics Table of Hanzi not included in GB/T 2312—1980 and other "fake" G7 characters
 - [x] GK / GB/T 12052-1989
-- [ ] GS
+- [x] GS / Singapore Characters
 - [x] HKSCS (BMP)
 - [ ] HKSCS (non-BMP)
 - [x] MSCS (BMP)
@@ -48,21 +49,22 @@ Note that most glyphs are NOT made by me. Only additions and planned ranges are 
 
 ## Who asked?
 
-1. Why does Scriptwide Kyokasho CJK consist of 2 fonts?
-  * One font file can only support 65535 glyphs, therefore the font has to be split to accommodate future additions.
-2. Why not 3 fonts?
-  * Bad question.
-3. What are the `Misc` fonts for?
-  * These are versions of Scriptwide Kyokasho that do not consist of CJK characters. A monospace version is also provided. Due to its smaller file size, WOFF and WOFF2 files are provided for the `Misc` fonts.
-4. Is this README file copied from Scriptwide Sans CJK?
+1. Why does Scriptwide Kyokasho CJK consist of several fonts?
+  * One font file can only support 65535 glyphs, so the font has to be split to accommodate future additions. The `Misc` fonts are also provided solely for LGC display.
+2. What does each font do?
+  * `CJK-A` covers CJK characters in the BMP, `CJK-B` covers CJK characters elsewhere, `CJK-P` covers PUA characters, and `Misc` and `Misc-Mono` cover LGC characters. Due to their smaller file sizes, WOFF and WOFF2 files are provided for the `Misc` and `Misc-Mono` fonts.
+  * `CJK-A` also includes regional variants. However, they should not be relied on.
+3. Is this README file copied from Scriptwide Sans CJK?
   * Yes.
-5. Can I expand on this font?
-  * Yes, unless you violate the OFL. You probably won't if you're being reasonable.
-6. Aren't there less characters compared to LXGW WenKai?
-  * Those are AI placeholder characters produced through zi2zi. To increase quality and to avoid confusion I have removed them. Newer glyphs may still be traced from these AI characters.
-7. Why isn't this classified as a Kai font?
-  * This is to differentiate the font from proper Kai fonts like TW-Kai. Contrary to popular belief, Klee One is more similar to kyokasho-tai compared to Kai script. However, kyokasho-tai itself is based on Kai script.
-8. Your font sucks.
+4. Can I expand on this font?
+  * You may do so as long as you follow the terms of the OFL.
+5. Aren't there less characters compared to LXGW WenKai?
+  * Those are AI placeholder characters produced through zi2zi. To increase quality and to avoid confusion, they have been removed. Newer glyphs may still be traced from these AI characters.
+6. Why isn't this classified as a Kai font?
+  * This is to differentiate the font from other Kai fonts like TW-Kai. Contrary to popular belief, Klee One is more similar to kyokasho-tai compared to the Kai script. However, kyokasho-tai itself is based on Kai script.
+7. Your font sucks.
+  * I know.
+8. This section sucks.
   * I know.
 
 ## Disclaimer
